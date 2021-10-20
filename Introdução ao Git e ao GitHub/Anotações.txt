@@ -1,0 +1,27 @@
+Sobre o GitHub:
+
+GitHub é um serviço baseado em nuvem 
+que hospeda um sistema de controle de 
+versão (VCS) chamado Git. 
+Ele permite que os desenvolvedores 
+colaborem e façam mudanças em projetos 
+compartilhados enquanto mantêm um registro 
+detalhado do seu progresso.
+
+Sobre o Gitbash
+
+O Git Bash é o aplicativo para ambientes do 
+Microsoft Windows que oferece a camada de emulação 
+para a experiência de linha de comando Git. 
+Bash é acrônico para "Bourne Again Shell". 
+Shells são aplicativos terminais usados como 
+interface em sistemas operacionais por meio 
+de comandos gravados. 
+
+O Shell é o padrão 
+popular no Linux e no macOS. 
+
+O Git Bash é o pacote que instala o Bash, 
+alguns utilitários de bash comuns e o Git 
+nos sistemas operacionais Windows.
+
